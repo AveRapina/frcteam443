@@ -1,0 +1,3 @@
+Welcome to the development home for Freelance Robotics Team 443, part of the FIRST Robotics Competition. This site contains team source code for our robots. For more information on Team 443 and Freelance Robotics please visit our homepage at http://www.freelancerobotics.org/.
+
+![http://www.freelancerobotics.org/images/stories/2010/Comp_day_3/vsig_images/2010-03-27-102954_585_388_90.jpg](http://www.freelancerobotics.org/images/stories/2010/Comp_day_3/vsig_images/2010-03-27-102954_585_388_90.jpg)
